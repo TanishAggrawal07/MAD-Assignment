@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensor_data">Sensor Data</string>
+    <string name="accelerometer">Accelerometer</string>
+    <string name="light_sensor">Light Sensor</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+</resources>
